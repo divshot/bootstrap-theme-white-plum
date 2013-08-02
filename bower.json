@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-theme-themestrap",
+  "name": "bootstrap-theme-white-plum",
   "version": "0.1.0",
-  "main": "dist/bootstrap.css",
+  "main": "./dist/css/bootstrap.css",
   "ignore": [
     "**/.*",
     "node_modules",
