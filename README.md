@@ -5,8 +5,7 @@ foundation. You can install it like so:
 
     bower install bootstrap-theme-white-plum
 
-You can [see the GitHub pages](http://code.divshot.com/bootstrap-theme-white-plum/) for a live demo of how it looks and further instruction.
-Enjoy!
+You can [see the GitHub pages](http://code.divshot.com/bootstrap-theme-white-plum/) for a live demo of how it looks and further instruction. Enjoy!
 
 ## Copyright and license
 
